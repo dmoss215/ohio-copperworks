@@ -1,0 +1,23 @@
+{
+  "name": "ohio-copperworks",
+  "version": "1.0.0",
+  "description": "website for roofing company",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmoss215/ohio-copperworks.git"
+  },
+  "author": "dm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmoss215/ohio-copperworks/issues"
+  },
+  "homepage": "https://github.com/dmoss215/ohio-copperworks#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}
